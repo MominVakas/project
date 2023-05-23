@@ -1,6 +1,10 @@
 [
   {
+<<<<<<< Updated upstream
   "name": "Ali",
+=======
+  "name": "Ali Doe",
+>>>>>>> Stashed changes
   "age": 30,
   "email": "johndoe@example.com",
   "address": {
