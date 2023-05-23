@@ -6,11 +6,11 @@
   "email": "ziyanalkhan07@example.com",
   "address": {
     "street": "123 Main St",
-    "city": "Anytown",
-    "state": "ABC",
-    "country": "XYZ"
+    "city": "Bhiwandi",
+    "state": "Maharashtra",
+    "country": "INDIA"
   },
   "hobbies": ["reading", "traveling", "photography"],
-  "isStudent": false
+  "isStudent": true
 }
 ]
